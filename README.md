@@ -10,6 +10,8 @@ A simple python3 script for joining and leaving Zoom Meetings automatically.
 
 * Clone the GitHub repo or download directly if you don't have git installed.
 * https://github.com/najmussakib1400/Zoom-Meetings-Auto-Join-End/archive/refs/tags/v1.0.zip
+
+**OR**
 ```
 git clone https://github.com/najmussakib1400/Zoom-Meetings-Auto-Join-End
 ```
